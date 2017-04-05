@@ -17,8 +17,7 @@ summaries, trivia, and reviews. It will use jQuery and AJAX methods to parse JSO
 party server, Open Movie Database (OMDB) API, to access their movie data.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+           https://jaf8025.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
 1. Building an application using an Application Programming Interface (API)
